@@ -6,3 +6,4 @@ INSERT INTO priarworld (firstname, rollnumber) VALUES ('Tanmay',5);
 INSERT INTO priarworld (firstname, rollnumber) VALUES ('Rohit',6);
 INSERT INTO priarworld (firstname, rollnumber) VALUES ('Rohit',7);
 INSERT INTO priarworld (firstname, rollnumber) VALUES ('Rohit1',8);
+INSERT INTO priarworld (firstname, rollnumber) VALUES ('Virat',9);
